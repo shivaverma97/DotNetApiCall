@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\KoreAiApiCall\KoreAiApiCall\bin\Debug\KoreAiApiCall.exe.config
+C:\Users\Admin\source\repos\KoreAiApiCall\KoreAiApiCall\bin\Debug\KoreAiApiCall.exe
+C:\Users\Admin\source\repos\KoreAiApiCall\KoreAiApiCall\bin\Debug\KoreAiApiCall.pdb
+C:\Users\Admin\source\repos\KoreAiApiCall\KoreAiApiCall\obj\Debug\KoreAiApiCall.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\KoreAiApiCall\KoreAiApiCall\obj\Debug\KoreAiApiCall.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\KoreAiApiCall\KoreAiApiCall\obj\Debug\KoreAiApiCall.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\KoreAiApiCall\KoreAiApiCall\obj\Debug\KoreAiApiCall.exe
+C:\Users\Admin\source\repos\KoreAiApiCall\KoreAiApiCall\obj\Debug\KoreAiApiCall.pdb
